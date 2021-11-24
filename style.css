@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script:wght@400;700&family=Varela+Round&display=swap');
 
 :root {
-  background: linear-gradient(to right, rgb(214, 214, 247), rgb(181, 247, 247));
+  background: linear-gradient(to right, rgb(205, 219, 250), rgb(181, 247, 247));
   font-size: 62.5%;
 }
 
@@ -22,7 +22,7 @@ h4 {
 }
 
 h1 {
-  font-size: 10rem;
+  font-size: 12rem;
   color: #3083cc;
   margin-bottom: 5rem;
 }
