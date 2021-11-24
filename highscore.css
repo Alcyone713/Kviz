@@ -12,3 +12,7 @@
   .high-score:hover {
     transform: scale(1.025);
   }
+#finalScore{
+   font-size: 13vw;
+ }
+    
