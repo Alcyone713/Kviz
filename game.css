@@ -38,6 +38,7 @@
 #hud {
   display: flex;
   justify-content: space-between;
+  
 }
 
 .hud-prefix {
@@ -54,7 +55,7 @@
   width: 20rem;
   height: 4rem;
   border: 0.3rem solid #56a5eb;
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
 
 #progressBarFull {
@@ -80,4 +81,7 @@
   100% {
     transform: rotate(360deg);
   }
+}
+#question{
+  margin-bottom: 0px;
 }
